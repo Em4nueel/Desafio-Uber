@@ -1,0 +1,8 @@
+### Get a movie by title
+GET http://localhost:8080/movies?title=Matrix
+
+
+
+
+
+
