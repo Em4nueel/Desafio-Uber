@@ -43,5 +43,3 @@ Links úteis
 Autor
 
 João Emanuel da Silva Ferreira — GitHub
-
-Se quiser, posso deixar ainda mais simples ou adicionar mais detalhes!
