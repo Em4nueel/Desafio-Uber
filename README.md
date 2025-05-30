@@ -14,10 +14,10 @@ Tecnologias
     Java 17
 
     Spring Boot
+    
+    Spring Reactive Web
 
-    Leaflet.js (mapas)
-
-    API de geocodificação
+    Lombok
 
 Como rodar
 
